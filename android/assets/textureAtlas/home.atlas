@@ -1,0 +1,20 @@
+
+home.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 95
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+btn_newgame
+  rotate: false
+  xy: 2, 2
+  size: 218, 91
+  orig: 218, 91
+  offset: 0, 0
+  index: -1

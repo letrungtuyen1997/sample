@@ -1,0 +1,35 @@
+
+_________GParticleSystem__________
+
+baozou1p1.p  ___  1 / 1
+baozou1p2.p  ___  1 / 1
+baozou1p3.p  ___  1 / 1
+user3boom.p  ___  1 / 1
+
+_________GParticleSystem__________
+
+baozou1p1.p  ___  1 / 1
+baozou1p2.p  ___  1 / 1
+baozou1p3.p  ___  1 / 1
+user3boom.p  ___  1 / 1
+
+_________GParticleSystem__________
+
+baozou1p1.p  ___  1 / 1
+baozou1p2.p  ___  1 / 1
+baozou1p3.p  ___  1 / 1
+user3boom.p  ___  1 / 1
+
+_________GParticleSystem__________
+
+baozou1p1.p  ___  1 / 1
+baozou1p2.p  ___  1 / 1
+baozou1p3.p  ___  1 / 1
+user3boom.p  ___  1 / 1
+
+_________GParticleSystem__________
+
+baozou1p1.p  ___  1 / 1
+baozou1p2.p  ___  1 / 1
+baozou1p3.p  ___  1 / 1
+user3boom.p  ___  1 / 1

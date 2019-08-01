@@ -1,0 +1,55 @@
+
+play.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+2
+  rotate: false
+  xy: 713, 195
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 242
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+btn_exit
+  rotate: false
+  xy: 1284, 541
+  size: 218, 91
+  orig: 218, 91
+  offset: 0, 0
+  index: -1
+btn_pause
+  rotate: false
+  xy: 1855, 892
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+btn_resume
+  rotate: false
+  xy: 2, 2
+  size: 218, 91
+  orig: 218, 91
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 1284, 634
+  size: 569, 328
+  orig: 569, 328
+  offset: 0, 0
+  index: -1
+tittle_pausing
+  rotate: false
+  xy: 2, 95
+  size: 709, 145
+  orig: 709, 145
+  offset: 0, 0
+  index: -1
